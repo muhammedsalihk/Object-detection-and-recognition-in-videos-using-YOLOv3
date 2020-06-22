@@ -1,4 +1,4 @@
-# Object-detection-and-recognition-in-videos-using-Yolo-v3
+# Object detection and recognition in videos using YOLO v3
 
 ## Introduction
 Detecting and recognising objects in video streams can be done in multiple ways. A few years ago, a multi step approach where the objects are first detected and localised using a neural network and subsequently classified using another CNN would have been the go to approach. But with the advent of the YOLO (You only look once) model, thanks to Joseph Redmon, this has been turned into an end to end deep learning problem where the entire process could be done using a single pass through a neural network.
