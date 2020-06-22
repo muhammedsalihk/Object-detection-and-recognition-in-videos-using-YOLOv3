@@ -10,6 +10,11 @@ Here, we use a prebuilt implementation of Yolo v3 using a package named ImageAI.
 
 The video to be analysed can be selected from and on clicking the appropriate button, the output video is generated and saved.
 
+The weights for the pretrained Yolov3 network can be downloaded here.
+
+Click here to download - automatic!
+[Yolov3](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5)
+
 ## Implementation
 The webapp has been built using streamlit and can be run using the command 
 ```
